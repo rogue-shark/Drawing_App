@@ -1,6 +1,6 @@
 <h1 align="center">Drawing App</h1>
 
-
+![Screenshot](./app_img.png)
 
 <div align="center">
   <h3>
